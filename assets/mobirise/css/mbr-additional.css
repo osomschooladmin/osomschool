@@ -2883,6 +2883,85 @@ a {
     padding: 1rem;
   }
 }
+.cid-tRPseOSzVE {
+  background-color: #ffeb69;
+}
+.cid-tRPseOSzVE .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tRPseOSzVE .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tRPseOSzVE .soc-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #edefeb;
+  margin-right: 0.25rem;
+  margin-left: 0.25rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  height: 3.5rem;
+  width: 3.5rem;
+}
+.cid-tRPseOSzVE .number-wrap {
+  color: #000000;
+  text-align: center;
+}
+.cid-tRPseOSzVE .number {
+  color: #d51a3c;
+}
+.cid-tRPseOSzVE .period {
+  display: block;
+}
+.cid-tRPseOSzVE .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-tRPseOSzVE .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-tRPseOSzVE .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-tRPseOSzVE .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-tRPseOSzVE .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-tRPseOSzVE .icons-menu .soc-item a:hover .mbr-iconfont,
+.cid-tRPseOSzVE .icons-menu .soc-item a:focus .mbr-iconfont {
+  background-color: #9fe870;
+}
+.cid-tRPseOSzVE .icons-menu .soc-item a .mbr-iconfont {
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #163300;
+  background-color: #edefeb;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-tRPseOSzVE .icons-menu .soc-item a .mbr-iconfont:before {
+  padding: 1.1rem;
+}
+@media (max-width: 767px) {
+  .cid-tRPseOSzVE .icons-menu .soc-item a .mbr-iconfont:before {
+    padding: 1.2rem;
+  }
+}
 .cid-tRJIuiuEIm {
   padding-top: 12rem;
   padding-bottom: 2rem;
